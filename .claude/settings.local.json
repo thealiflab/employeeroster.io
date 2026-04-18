@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\\\.\\(json|js|ts|md|yml|yaml|html|css\\)$|^\\\\.env|^\\\\.cursor|^CLAUDE\")",
+      "Bash(git config *)"
+    ]
+  }
+}
